@@ -1,0 +1,1 @@
+Trying to get the basic barebones headless wordpress with react installed and deployed.
